@@ -1,0 +1,99 @@
+========== DATOS DIRECTV ==========
+
+>> DATOS DE CONEXION <<
+
+IP: 127.0.0.1
+ISP: DESKTOP-G0BPF9E
+►►►► DATOS DE LA CC ◄◄◄◄ 
+Nombre y Apellido:ruben juan
+Dni:333333333
+Provincia:dsds
+Postal:dsdsd
+Digitos:sdsdsds222222222
+Vencimiento:sdsd
+CVV:dsds
+►►►►►►► SCAN EZE ◄◄◄◄◄◄◄◄ 
+========== DATOS DIRECTV ==========
+
+========== DATOS DIRECTV ==========
+
+>> DATOS DE CONEXION <<
+
+IP: 127.0.0.1
+ISP: DESKTOP-G0BPF9E
+►►►► DATOS DE CC ◄◄◄◄ 
+Digitos:4540328765432345
+Vencimiento:0922
+CVV:789
+►►►►►►► SCAN EZE ◄◄◄◄◄◄◄◄ 
+========== DATOS DIRECTV ==========
+
+========== DATOS DIRECTV ==========
+
+>> DATOS DE CONEXION <<
+
+IP: 127.0.0.1
+ISP: DESKTOP-G0BPF9E
+►►►► DATOS DE CC ◄◄◄◄ 
+Digitos:4540328765432345
+Vencimiento:09/12
+CVV:897
+►►►►►►► SCAN EZE ◄◄◄◄◄◄◄◄ 
+========== DATOS DIRECTV ==========
+
+========== DATOS DIRECTV ==========
+
+>> DATOS DE CONEXION <<
+
+IP: 127.0.0.1
+ISP: DESKTOP-G0BPF9E
+►►►► DATOS DE CC ◄◄◄◄ 
+Digitos:4548320987654321
+Vencimiento:0822
+CVV:345
+►►►►►►► SCAN EZE ◄◄◄◄◄◄◄◄ 
+========== DATOS DIRECTV ==========
+
+========== DATOS DIRECTV ==========
+
+>> DATOS DE CONEXION <<
+
+IP: 127.0.0.1
+ISP: DESKTOP-G0BPF9E
+►►►► DATOS DE CC ◄◄◄◄ 
+Digitos:4540328765432345
+Vencimiento:09/12
+CVV:345
+►►►►►►► SCAN EZE ◄◄◄◄◄◄◄◄ 
+========== DATOS DIRECTV ==========
+
+========== DATOS DIRECTV ==========
+
+>> DATOS DE CONEXION <<
+
+IP: 127.0.0.1
+ISP: DESKTOP-G0BPF9E
+►►►► DATOS DE CC ◄◄◄◄ 
+Digitos:4540328765432345
+Vencimiento:3098
+CVV:234
+►►►►►►► SCAN EZE ◄◄◄◄◄◄◄◄ 
+========== DATOS DIRECTV ==========
+
+========== DATOS DIRECTV ==========
+
+>> DATOS DE CONEXION <<
+
+IP: 127.0.0.1
+ISP: DESKTOP-G0BPF9E
+►►►► DATOS DE FACTURACION ◄◄◄◄ 
+Nombre y Apellido:MARCOS LUNA
+Dni:33765980
+Provincia:BS AS
+Postal:567
+Digitos:4548320987654321
+Vencimiento:0222
+CVV:456
+►►►►►►► SCAN EZE ◄◄◄◄◄◄◄◄ 
+========== DATOS DIRECTV ==========
+
